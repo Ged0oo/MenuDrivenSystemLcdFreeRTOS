@@ -1,4 +1,4 @@
-/* USER CODE BEGIN Header */
+e/* USER CODE BEGIN Header */
 /**
   ******************************************************************************
   * File Name          : freertos.c
@@ -83,6 +83,7 @@ uint8_t *ScoundScreenFrames[6][2] =
 		{"* HumadityMood *",	"Humadity => ****"},
 		{"**  Gas Mood  **",	"GasDetecte => *"}
 };
+
 
 /* USER CODE END Variables */
 /* Definitions for task1 */
