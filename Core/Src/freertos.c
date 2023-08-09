@@ -59,6 +59,7 @@
 /* Private variables ---------------------------------------------------------*/
 /* USER CODE BEGIN Variables */
 
+
 extern GPIO_ConfigType DecrementButton;
 extern GPIO_ConfigType ChoiceButton;
 extern GPIO_ConfigType IncrementButton;
