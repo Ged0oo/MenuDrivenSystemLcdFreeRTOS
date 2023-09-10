@@ -3,7 +3,7 @@
   ******************************************************************************
   * @file    gpio.c
   * @brief   This file provides code for the configuration
-  *          of all used GPIO pins.
+  *          of all used GPIO pins. 
   ******************************************************************************
   * @attention
   *
